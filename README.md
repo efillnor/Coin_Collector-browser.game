@@ -1,1 +1,1 @@
-# Coin_Collector-browser.game
+This project was built with Phaser JS.
